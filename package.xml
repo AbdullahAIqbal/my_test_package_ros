@@ -3,7 +3,7 @@
 <package format="3">
   <name>my_package</name>
   <version>0.0.0</version>
-  <description>TODO: Package description</description>
+  <description>My first test package</description>
   <maintainer email="navcon@todo.todo">navcon</maintainer>
   <license>TODO: License declaration</license>
 
